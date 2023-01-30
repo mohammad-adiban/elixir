@@ -1,7 +1,7 @@
 ### Example: python3 elixir_task.py 'data/' 'testfile_a.s' 'testfile_b.f' 'seg_func_mean'
 
 """ 
-The code includes for:
+The code includes:
 1- Showing input data data (show_data)
 2- Finding region overlap between two SEGMENTS (region_overlap)
 3- Claculating pearson correlation coefficient of two FUNCTIONs (pearson_corr_coef)
