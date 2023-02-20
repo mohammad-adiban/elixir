@@ -1,10 +1,10 @@
 ### Example: python3 elixir_task.py 'data/' 'testfile_a.s' 'testfile_b.f' 'seg_func_mean'
 
-""" 
-The code includes:
-1- Showing input data data (show_data)
+"""
+The code includes the following:
+1- Showing input data (show_data)
 2- Finding region overlap between two SEGMENTS (region_overlap)
-3- Claculating pearson correlation coefficient of two FUNCTIONs (pearson_corr_coef)
+3- Calculating Pearson Correlation Coefficient of two FUNCTIONs (pearson_corr_coef)
 4- Calculating the mean of FUNCTION corresponding to the SEGMENT (seg_func_mean) 
 """
 from elixir import Elixir 
